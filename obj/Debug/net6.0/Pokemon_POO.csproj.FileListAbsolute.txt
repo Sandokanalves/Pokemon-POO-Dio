@@ -1,0 +1,15 @@
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\bin\Debug\net6.0\Pokemon_POO.exe
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\bin\Debug\net6.0\Pokemon_POO.deps.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\bin\Debug\net6.0\Pokemon_POO.runtimeconfig.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\bin\Debug\net6.0\Pokemon_POO.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\bin\Debug\net6.0\ref\Pokemon_POO.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\bin\Debug\net6.0\Pokemon_POO.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.csproj.AssemblyReference.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.AssemblyInfoInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.AssemblyInfo.cs
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.csproj.CoreCompileInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\ref\Pokemon_POO.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\Pokemon_POO\obj\Debug\net6.0\Pokemon_POO.genruntimeconfig.cache
